@@ -5,6 +5,22 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
-    "pandas>=2.3.1",
-    "pytest>=8.4.1",
+    "blinker==1.9.0",
+    "click==8.2.1",
+    "flask==3.1.1",
+    "iniconfig==2.1.0",
+    "itsdangerous==2.2.0",
+    "jinja2==3.1.6",
+    "markupsafe==3.0.2",
+    "numpy==2.3.2",
+    "packaging==25.0",
+    "pandas==2.3.1",
+    "pluggy==1.6.0",
+    "pygments==2.19.2",
+    "pytest==8.4.1",
+    "python-dateutil==2.9.0.post0",
+    "pytz==2025.2",
+    "six==1.17.0",
+    "tzdata==2025.2",
+    "werkzeug==3.1.3",
 ]
